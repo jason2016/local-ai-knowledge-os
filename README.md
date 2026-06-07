@@ -6,6 +6,18 @@ Local AI Knowledge OS is a lightweight Markdown system that turns scattered proj
 
 ---
 
+## Visual overview
+
+Three small diagrams explain the whole system at a glance:
+
+- 🗺️ [Hero diagram — AI Project Memory You Control](docs/visuals/README-hero-diagram.md) — the product in five seconds.
+- 🗂️ [Folder structure diagram](docs/visuals/folder-structure-diagram.md) — what each folder is for.
+- 🔄 [Project memory loop diagram](docs/visuals/project-memory-loop-diagram.md) — the core working cycle.
+
+See [docs/visuals/](docs/visuals/README.md) for the visual direction.
+
+---
+
 ## Start Here
 
 New here? Follow this path top to bottom:
